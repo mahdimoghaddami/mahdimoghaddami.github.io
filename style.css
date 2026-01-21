@@ -1,6 +1,6 @@
 /* General Reset and Base Styles */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Newsreader', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -191,6 +191,7 @@ h3 {
 }
 
 .skill-tag {
+    font-family: 'Courier', monospace;
     padding: 6px 10px;
     border-radius: 999px;
     font-weight: 600;
